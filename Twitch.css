@@ -1,0 +1,37 @@
+body{
+  background-color: #704cc4;
+
+}
+#banner{
+  background-color: #7742f4;
+  text-align:center;
+  color:white;
+  position:relative;
+  top:0;
+  left:0;
+  right:0;
+}
+
+#stream{
+  background-color: #704cc4;
+  text-align: center;
+  color:white;
+  height:100%;
+}
+#status{
+  text-decoration:none;
+  color:white;
+}
+a:link{
+  color:white;
+}
+
+#bottom{
+  background-color: #7742f4;
+  text-align: center;
+  margin-bottom: auto;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+}
